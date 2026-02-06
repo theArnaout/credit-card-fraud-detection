@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.venv/
+env/
+.env
+*.egg-info/
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+*.pynb_checkpoints
+
+# Data (raw / sensitive)
+data/raw/
+data/processed/
+*.csv
+*.parquet
+*.zip
+
+# Models
+models/*.pkl
+models/*.joblib
+
+# OS
+.DS_Store
+
