@@ -1,3 +1,4 @@
+altair==6.0.0
 anyio @ file:///opt/miniconda3/conda-bld/anyio_1758623411472/work
 appnope @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_46iquy4y0r/croot/appnope_1750774774351/work
 argon2-cffi @ file:///Users/ec2-user/croot/argon2-cffi_1766067821209/work
@@ -9,11 +10,14 @@ attrs @ file:///opt/miniconda3/conda-bld/attrs_1762356889054/work
 babel @ file:///opt/miniconda3/conda-bld/babel_1764159385936/work
 beautifulsoup4 @ file:///Users/ec2-user/croot/beautifulsoup4-split_1770291774607/work
 bleach @ file:///opt/miniconda3/conda-bld/bleach_1764153568085/work
+blinker==1.9.0
 Bottleneck @ file:///opt/miniconda3/conda-bld/bottleneck_1761937849374/work
 brotlicffi @ file:///opt/miniconda3/conda-bld/brotlicffi_1764961161728/work
+cachetools==6.2.6
 certifi @ file:///Users/ec2-user/croot/certifi_1767659142737/work/certifi
 cffi @ file:///opt/miniconda3/conda-bld/cffi_1761832772717/work
 charset-normalizer @ file:///opt/miniconda3/conda-bld/charset-normalizer_1761744841364/work
+click==8.3.1
 cloudpickle==3.1.2
 comm @ file:///opt/miniconda3/conda-bld/comm_1763119153747/work
 contourpy @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_2cvjf0v4ux/croot/contourpy_1732540055997/work
@@ -26,6 +30,8 @@ executing @ file:///opt/miniconda3/conda-bld/executing_1757061234733/work
 fastjsonschema @ file:///opt/miniconda3/conda-bld/python-fastjsonschema_1763718698357/work
 fonttools @ file:///opt/miniconda3/conda-bld/fonttools_1765445198468/work
 fqdn==1.5.1
+gitdb==4.0.12
+GitPython==3.1.46
 h11 @ file:///opt/miniconda3/conda-bld/h11_1761931258948/work
 html5lib @ file:///Users/ktietz/demo/mc3/conda-bld/html5lib_1629144453894/work
 httpcore @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_941yf7p5zt/croot/httpcore_1748526061031/work
@@ -63,6 +69,7 @@ MarkupSafe @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs
 matplotlib==3.10.8
 matplotlib-inline @ file:///opt/miniconda3/conda-bld/matplotlib-inline_1762779171547/work
 mistune @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_5be80wp982/croot/mistune_1741123981908/work
+narwhals==2.16.0
 nbclient @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_67j3qubf1d/croot/nbclient_1741124021022/work
 nbconvert @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_e4p9a3fnm6/croot/nbconvert-meta_1741184656667/work
 nbformat @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_2cv_qoc1gw/croot/nbformat_1728049423516/work
@@ -82,10 +89,13 @@ pillow @ file:///Users/ec2-user/croot/pillow_1769433324814/work
 platformdirs @ file:///opt/miniconda3/conda-bld/platformdirs_1762356633662/work
 prometheus_client @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_26twdnhgbr/croot/prometheus_client_1744271763065/work
 prompt_toolkit @ file:///opt/miniconda3/conda-bld/prompt-toolkit_1761744860944/work
+protobuf==6.33.5
 psutil @ file:///opt/miniconda3/conda-bld/psutil_1761896322276/work
 ptyprocess @ file:///opt/miniconda3/conda-bld/ptyprocess_1762424170819/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl#sha256=3470be7f810474c8a2ecfcd6e02acc6aea8483ab595417fa4e336362a349933e
 pure_eval @ file:///opt/miniconda3/conda-bld/pure_eval_1757067086281/work
+pyarrow==23.0.0
 pycparser @ file:///opt/miniconda3/conda-bld/pycparser_1757496094255/work
+pydeck==0.9.1
 Pygments @ file:///opt/miniconda3/conda-bld/pygments_1762431566026/work
 pyparsing @ file:///opt/miniconda3/conda-bld/pyparsing_1763973787496/work
 PySocks @ file:///opt/miniconda3/conda-bld/pysocks_1761753011241/work
@@ -110,12 +120,16 @@ shap==0.49.1
 six @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_03myqm7p6o/croot/six_1744271511946/work
 sklearn-compat==0.1.5
 slicer==0.0.8
+smmap==5.0.2
 sniffio @ file:///opt/miniconda3/conda-bld/sniffio_1764329153177/work
 soupsieve @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_9798xzs_03/croot/soupsieve_1696347567192/work
 stack_data @ file:///opt/miniconda3/conda-bld/stack_data_1757067065720/work
+streamlit==1.54.0
+tenacity==9.1.4
 terminado @ file:///Users/ec2-user/croot/terminado_1769591692590/work
 threadpoolctl @ file:///opt/miniconda3/conda-bld/threadpoolctl_1764361580557/work
 tinycss2 @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_47tkvt_wcv/croot/tinycss2_1738338622484/work
+toml==0.10.2
 tomli @ file:///Users/ec2-user/croot/tomli_1768297479919/work
 tornado @ file:///Users/ec2-user/croot/tornado_1765992646290/work
 tqdm==4.67.3
